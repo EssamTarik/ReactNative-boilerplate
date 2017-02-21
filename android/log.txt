@@ -1,0 +1,1 @@
+Command `run-android` unrecognized. Make sure that you have run `npm install` and that you are inside a react-native project.
